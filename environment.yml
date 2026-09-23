@@ -1,0 +1,16 @@
+name: space-programming
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pytest
+  - ruff
+  - sqlalchemy
+  - jupysql
+  - sqlite
